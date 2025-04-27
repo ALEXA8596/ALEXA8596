@@ -10,7 +10,7 @@ Take a look at some of my projects below!
 
 ## [Athletic Helper Chrome Extension](https://github.com/ALEXA8596/AthleticNetExtension)
 
-- A [Google Chrome Extension](https://chromewebstore.google.com/detail/athletic-helper/gdnmapolllodbicoalbfpainmldmabek) that uses the below NPM module in order to scrape data related to Track and Field and Cross Country, and display related statistics to the user.
+- A [Google Chrome Extension](https://chromewebstore.google.com/detail/athletic-helper/gdnmapolllodbicoalbfpainmldmabek) that uses the below NPM module in order to scrape data related to Track and Field and Cross Country, and display related statistics to the user. Simulate hypothetical meets, track athlete progression, and plot event performances.
 - Made using Browserify, HTML, JS, CSS
 
 ## [Athletic Helper NPM module](https://github.com/ALEXA8596/AthleticNetWrapper)
@@ -67,18 +67,3 @@ Take a look at some of my projects below!
 
   - Inspired by Video Game item-trading
 - React Flashcard Maker / Renderer
-
-<!--
-**ALEXA8596/ALEXA8596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
